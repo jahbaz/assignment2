@@ -1,0 +1,176 @@
+ .class {
+
+     display: flex;
+
+     height: 400px;
+     width: 80%;
+     background-color: black;
+     border-radius: 15px;
+     margin-left: 10%;
+
+ }
+
+ .text {
+     color: white;
+     margin-left: 12px;
+ }
+
+ .button {
+     height: 40px;
+     width: 60px;
+     text-decoration: none;
+     background-color: red;
+     border-radius: 5px;
+     color: white;
+     font-size: 34px;
+     margin-left: 15px;
+     border: 1px solid white;
+
+ }
+
+ .match {
+     display: flex;
+     width: 250px;
+     height: 250px;
+     background-color: rgb(26, 24, 24);
+     margin-top: 50px;
+     margin-left: 30px;
+     border-radius: 10px;
+     margin-bottom: 30px;
+ }
+
+ .buttn {
+     text-decoration: none;
+     list-style: none;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     height: 30px;
+     width: 200px;
+     background-color: rgb(17, 230, 81);
+     margin: 15%;
+     border-radius: 5PX;
+     margin-top: 5px;
+     text-align: center;
+     color: red;
+ }
+
+ .boxs {
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     height: 30px;
+     width: 200px;
+     background-color: rgb(211, 205, 205);
+     margin: 15%;
+     border-radius: 5PX;
+     margin-top: 5px;
+ }
+
+ .blog {
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     height: 30px;
+     width: 200px;
+     background-color: rgb(110, 108, 108);
+     margin: 15%;
+     border-radius: 5PX;
+     margin-top: 5px;
+ }
+
+ .player {
+     border-radius: 9px;
+     height: 170px;
+     width: 100px;
+     margin: 10px;
+     row-gap: 10px;
+     column-gap: 10px;
+     padding: 50px;
+     border: 1px solid rgb(110, 110, 109);
+
+ }
+
+ .matchs {
+
+     display: grid;
+     grid-template-columns: repeat(3, 1fr);
+     grid-template-rows: repeat(3, 1fr);
+     row-gap: 5px;
+     column-gap: 5px;
+     margin-left: 30px;
+
+ }
+
+
+ .display {
+     display: flex;
+ }
+
+ .image {
+     height: 100px;
+     width: 150px;
+     padding-top: 2px;
+     margin-top: -38px;
+     margin-left: -18px;
+ }
+
+ .tag {
+     display: flex;
+     margin-top: 20px;
+
+ }
+
+ .font {
+     margin: 5px;
+     font-size: 12px;
+ }
+
+ .her {
+     margin: -10px;
+
+     padding: 20px;
+ }
+
+ span {
+     display: flex;
+     margin left: 20px;
+ }
+
+ p {
+     display: flex;
+ }
+
+ .inline {
+
+     text-align: center;
+     display: flex;
+     padding-left: 200px;
+     margin-left: 215px;
+
+
+ }
+
+ .iteam {
+
+     padding-left: 30px;
+     text-decoration: none;
+     list-style: none;
+     color: aliceblue;
+
+ }
+
+ .goal {
+     text-align: center;
+     font-size: 36px;
+     color: aliceblue;
+ }
+
+ .end {
+     text-align: center;
+     width: 100%;
+     height: 250px;
+     background-color: black;
+     margin-top: 30px;
+     padding-top: 50px;
+ }
